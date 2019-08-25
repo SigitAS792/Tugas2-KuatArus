@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kuat Arus</string>
+    <string name="arus">Kuat Arus</string>
+    <string name="batan">Hambatan</string>
+    <string name="inputpotensial">Input Potensial</string>
+    <string name="input_arus">Input Kuat Arus</string>
+    <string name="hitung">Cetak</string>
+    <string name="inputhambatan">Input Hambatan</string>
+</resources>
